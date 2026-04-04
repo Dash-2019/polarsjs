@@ -8,3 +8,4 @@ import pl from 'nodejs-polars';
 
 
 console.log(fooSeries);
+console.log('first');
